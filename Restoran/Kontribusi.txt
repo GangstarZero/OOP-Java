@@ -1,0 +1,16 @@
+Kami gagal membuat koneksi antara Java dan Database. 
+Kami sertakan hasil database nya saja di dalam folder.
+
+Jason 2602060533: 
+- Melakukan push github
+- Membuat class Main
+- Membuat class Employee
+- Membuat Database
+
+Juwan 2602075402:
+- Membuat class Menu
+- Membuat class TableType
+- Membuat class TheResto
+
+Franklin Pinehas Liauw romamti :
+
